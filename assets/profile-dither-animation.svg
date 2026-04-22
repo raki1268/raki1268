@@ -76,7 +76,7 @@
   
   <!-- Replace this href with your image URL -->
   <!-- The image will auto-scale and crop to fit the 1200x400 ratio -->
-  <image href="./public/cd/head/raki.jpg"
+  <image href="./raki.jpg"
          x="0" 
          y="0" 
          width="1200" 
