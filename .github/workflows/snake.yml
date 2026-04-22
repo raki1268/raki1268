@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # 每24小时运行一次
+    - cron: "0 */24 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -10,12 +10,14 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write # 显式声明写入权限
     runs-on: ubuntu-latest
     steps:
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: raki1268
           outputs: |
             dist/github-snake.svg?palette=github-light&color_snake=#FFB7C5&color_dots=#ebedf0,#A7D08C,#7CB342,#388E3C,#1B5E20
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFB7C5&color_dots=#161b22,#A7D08C,#7CB342,#388E3C,#1B5E20
