@@ -1,35 +1,31 @@
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/raki1268/raki1268/main/assets/header_neon_sakura.svg" width="100%" alt="Raki Lab • Ace.R • Neon and Sakura Header" />
+<img src="assets/header.gif" width="100%" alt="Raki Lab Pixel Header" />
 
-<pre>
-!           ___           ___           ___                                               ___           ___                    ___           ___           ___           
-!          /  /\         /  /\         /__/|         ___                                 /__/\         /  /\                  /__/\         /__/\         ___           
-!         /  /::\       /  /::\       |  |:|        /  /\                                \  \:\       /  /::\                \  \:\        \  \:\       /  /\          
-!        /  /:/\:\     /  /:/\:\      |  |:|       /  /:/                ___     ___      \  \:\     /  /:/\:\                \__\:\        \  \:\     /  /:/          
-!       /  /:/~/:/    /  /:/~/::\   __|  |:|      /__/::\               /__/\   /  /\ ___  \  \:\   /  /:/  \:\            ___ /  /::\   ___  \  \:\   /__/::\          
-!      /__/:/ /:/___ /__/:/ /:/\:\ /__/\_|:|____ \__\/\:\__            \  \:\ /  /:/ /__/\  \__\:\ /__/:/ \__\:\          /__/\  /:/\:\ /__/\  \__\:\ \__\/\:\__       
-!      \  \:\/:::::/ \  \:\/:/__\/ \  \:\/:::::/    \  \:\/\            \  \:\ /:/  \  \:\ /  /:/ \  \:\ /  /:/          \  \:\/:/__\/ \  \:\ /  /:/    \  \:\/\      
-!       \  \::/~~~~   \  \::/        \  \::/~~~~      \__\::/             \  \:\/:/    \  \:\ /:/   \  \:\ /:/            \  \::/        \  \:\ /:/      \__\::/      
-!        \  \:\        \  \:\         \  \:\          /__/:/               \  \::/      \  \:\/:/     \  \:\/:/              \  \:\        \  \:\/:/       /__/:/       
-!         \  \:\        \  \:\         \  \:\         \__\/                 \__\/        \  \::/       \  \::/                \  \:\        \  \::/        \__\/        
-!          \__\/         \__\/          \__\/                                             \__\/         \__\/                  \__\/         \__\/                     
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=600&lines=Hello%2C+I+am+raki.;I+love+to+create+new+and+interesting+things." alt="Typing SVG" />
+
+![](https://komarev.com/ghpvc/?username=raki1268&label=visitors&color=A7D08C&style=flat-square)
+
+---
 
 ### Creative Full-Stack Architect
 *Building with logic, Designing with aesthetics*
 
 ![](https://img.shields.io/badge/Full--Stack-Next.js%20%7C%20Supabase%20%7C%20Vercel-black?style=flat-square)
 ![](https://img.shields.io/badge/Aesthetics-UI%20%26%20Creative%20Frontend-FFB7C5?style=flat-square)
-![](https://img.shields.io/badge/Dev-TypeScript%20%7C%20React%20%7C%20Three.js-A7D08C?style=flat-square)
 
 ---
 
-### Academic & Intellectual Background
+### 🛠 Tech Stack & Knowledge base
 
-* **Philosophy:** Major background, focusing on the synthesis of logic and existence.
-* **Physics:** Deeply interested in Astrophysics and Particle Physics, with a specific focus on Dark Matter.
-* **Art:** Fine Arts, Photography (10 years), and Fashion Design (Professional Background).
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) |
+| **Backend & Cloud** | ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Academic** | **Philosophy** (Major), **Astrophysics**, **Particle Physics** (Dark Matter focus) |
+| **Creative Art** | **Fine Arts**, **Photography** (10 Years), **Fashion Design** (Professional) |
+
+---
 
 ### Lifestyle & Interests
 
