@@ -27,32 +27,32 @@
 
 </div>
 
-### 🛠 Knowledge & Skills
+### Academic & Intellectual Background
 
-* **Code:** Specialized in React, Next.js, Node.js, and Three.js for interactive visualizations.
-* **Art:** Fine Arts, Photography, and Fashion Design (Major).
-* **Studies:** Profound interest in Philosophy, Quantum Physics, and Economics & Management.
+* **Philosophy:** Major background, focusing on the synthesis of logic and existence.
+* **Physics:** Deeply interested in Astrophysics and Particle Physics, with a specific focus on Dark Matter.
+* **Art:** Fine Arts, Photography (10 years), and Fashion Design (Professional Background).
 
-### 🍱 Daily Life
+### Lifestyle & Interests
 
-* **Hobbies:** Traveling, Running, Movie Marathons, and Piano performance.
+* **Hobbies:** Traveling, Marathons, Movies, and Music.
 * **Inspiration:** Capturing the world through a lens and exploring the intersection of art and science.
 
 ---
 
 <div align="center">
 
-### 🌸 Spring Contribution Path
+### Spring Contribution Path
 ![snake](https://raw.githubusercontent.com/raki1268/raki1268/output/github-snake.svg)
 
 ---
 
-### 🎧 On Repeat
+### On Repeat
 [<img src="https://img.shields.io/badge/Apple%20Music-Car%20Music%20Playlist-FB233B?style=for-the-badge&logo=apple-music&logoColor=white" />](https://music.apple.com/jp/playlist/car-music/pl.u-aZb0k79F1qM1kyJ?l=en-US)
 
 ---
 
-### 🔬 Secret Observation Deck
+### Secret Observation Deck
 <div align="left">
 <pre>
 /* * [ PROJECT: HADRON COLLISION ]
