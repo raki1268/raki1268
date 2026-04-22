@@ -146,7 +146,6 @@ RAKI LAB
   <img src="./assets/profile-dither-animation.svg" alt="Profile" width="100%">
 </p>
 
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raki1268&show_icons=true&theme=transparent&hide_border=true&icon_color=A7D08C&text_color=000000&title_color=A7D08C" />
 
 </div>
