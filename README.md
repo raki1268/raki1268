@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=RAKI%20LAB%20%E2%80%A2%20ACE.R&fontSize=50&fontAlignY=45&animation=twinkling&desc=Full-stack%20Architecture%20%26%20Aesthetic%20Design&descAlignY=70&descSize=15" width="100%" />
+<img src="https://raw.githubusercontent.com/raki1268/raki1268/main/assets/header_neon_sakura.svg" width="100%" alt="Raki Lab • Ace.R • Neon and Sakura Header" />
 
 <pre>
 !           ___           ___           ___                                               ___           ___                    ___           ___           ___           
@@ -25,8 +25,6 @@
 
 ---
 
-</div>
-
 ### Academic & Intellectual Background
 
 * **Philosophy:** Major background, focusing on the synthesis of logic and existence.
@@ -40,8 +38,6 @@
 
 ---
 
-<div align="center">
-
 ### Spring Contribution Path
 ![snake](https://raw.githubusercontent.com/raki1268/raki1268/output/github-snake.svg)
 
@@ -53,7 +49,6 @@
 ---
 
 ### Secret Observation Deck
-<div align="left">
 <pre>
 /* * [ PROJECT: HADRON COLLISION ]
  * Status: Observing Dark Matter...
@@ -64,10 +59,9 @@
        /     \
       '       '  ... particles decaying ...
 </pre>
-</div>
 
 ---
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=raki1268&show_icons=true&theme=transparent&hide_border=true&icon_color=FFB7C5&text_color=555555&title_color=FFB7C5" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=raki1268&show_icons=true&theme=transparent&hide_border=true&icon_color=A7D08C&text_color=000000&title_color=A7D08C" />
 
 </div>
