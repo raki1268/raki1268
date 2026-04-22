@@ -62,7 +62,7 @@ RAKI LAB
       <a href="https://music.apple.com/us/album/map-of-the-soul-7/1499335371">
         <img src="public/cd/map.jpg" width="100%" />
       </a><br />
-      <sub><strong>BTS</strong><br />Map of the Soul: 7</sub>
+      <sub><strong>Yutaka Ozaki</strong><br />Seventeen's Map</sub>
     </td>
     <td width="20%">
       <a href="https://music.apple.com/us/album/help-ever-hurt-never/1512411656">
@@ -100,7 +100,7 @@ RAKI LAB
       <a href="https://music.apple.com/us/album/solo-piano/61460144">
         <img src="public/cd/solopiano.jpg" width="100%" />
       </a><br />
-      <sub><strong>Chilly Gonzales</strong><br />Solo Piano</sub>
+      <sub><strong>Chilly Gonzales</strong><br />Solo Piano II(Deluxe Edition)</sub>
     </td>
     <td width="20%">
       <a href="https://music.apple.com/us/album/strobo/1511210217">
@@ -112,24 +112,18 @@ RAKI LAB
       <a href="https://music.apple.com/us/album/thank-you/1444033285">
         <img src="public/cd/thankyou.jpg" width="100%" />
       </a><br />
-      <sub><strong>Kelly Chen</strong><br />Thank You</sub>
+      <sub><strong>Sugar Club</strong><br />Thank You</sub>
     </td>
     <td width="20%">
       <a href="https://music.apple.com/us/album/the-1975-deluxe-edition/1440854496">
         <img src="public/cd/the1975.jpg" width="100%" />
       </a><br />
-      <sub><strong>The 1975</strong><br />The 1975</sub>
+      <sub><strong>The 1975</strong><br />At Their Very Best(Live) </sub>
     </td>
   </tr>
 </table>
 
 ---
-
-### 🌸 Spring Contribution Path
-![snake](https://raw.githubusercontent.com/raki1268/raki1268/output/github-snake.svg)
-
----
-
 ### Secret Observation Deck
 <pre>
 /* * [ PROJECT: HADRON COLLISION ]
@@ -141,6 +135,10 @@ RAKI LAB
        /     \
       '       '  ... particles decaying ...
 </pre>
+
+---
+### 🌸 Spring Contribution Path
+![snake](https://raw.githubusercontent.com/raki1268/raki1268/output/github-snake.svg)
 
 ---
 
