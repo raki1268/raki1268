@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- Dither pattern for texture -->
+    <filter id="ditherEffect" x="0%" y="0%" width="100%" height="100%">
+      <!-- Convert to grayscale -->
+      <feColorMatrix type="saturate" values="0" result="grayscale"/>
+      
+      <!-- Apply lavender/purple tint -->
+      <feColorMatrix type="matrix" 
+                     values="0.8 0 0 0 0.75
+                             0.7 0 0 0 0.65
+                             1.0 0 0 0 0.85
+                             0 0 0 1 0"
+                     in="grayscale"
+                     result="tinted"/>
+      
+      <!-- Create dither noise pattern -->
+      <feTurbulence type="fractalNoise" 
+                    baseFrequency="0.9" 
+                    numOctaves="3" 
+                    seed="2"
+                    result="noise">
+        <animate attributeName="seed" 
+                 values="2;3;4;3;2" 
+                 dur="1s" 
+                 repeatCount="indefinite"/>
+      </feTurbulence>
+      
+      <!-- Blend noise with image -->
+      <feBlend mode="overlay" in="tinted" in2="noise" result="dithered"/>
+      
+      <!-- Add subtle displacement for wave effect -->
+      <feDisplacementMap in="dithered" 
+                         in2="noise" 
+                         scale="2" 
+                         xChannelSelector="R" 
+                         yChannelSelector="G"
+                         result="displaced">
+        <animate attributeName="scale" 
+                 values="2;4;3;4;2" 
+                 dur="1s" 
+                 repeatCount="indefinite"/>
+      </feDisplacementMap>
+      
+      <!-- Brightness/contrast oscillation -->
+      <feComponentTransfer in="displaced">
+        <feFuncR type="linear" slope="1.15" intercept="0.05">
+          <animate attributeName="slope" 
+                   values="1.15;1.25;1.10;1.25;1.15" 
+                   dur="1s" 
+                   repeatCount="indefinite"/>
+        </feFuncR>
+        <feFuncG type="linear" slope="1.15" intercept="0.05">
+          <animate attributeName="slope" 
+                   values="1.15;1.25;1.10;1.25;1.15" 
+                   dur="1s" 
+                   repeatCount="indefinite"/>
+        </feFuncG>
+        <feFuncB type="linear" slope="1.15" intercept="0.05">
+          <animate attributeName="slope" 
+                   values="1.15;1.25;1.10;1.25;1.15" 
+                   dur="1s" 
+                   repeatCount="indefinite"/>
+        </feFuncB>
+      </feComponentTransfer>
+    </filter>
+    
+    <!-- Clip path for the wide rectangular shape like image 2 -->
+    <clipPath id="wideRectClip">
+      <rect x="0" y="0" width="1200" height="400" rx="20" ry="20"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Background subtle pattern (optional) -->
+  <rect width="1200" height="400" fill="#f8f9fc" rx="20" ry="20"/>
+  
+  <!-- Replace this href with your image URL -->
+  <!-- The image will auto-scale and crop to fit the 1200x400 ratio -->
+  <image href="https://placeholder-url.com/your-image.jpg" 
+         x="0" 
+         y="0" 
+         width="1200" 
+         height="400" 
+         preserveAspectRatio="xMidYMid slice"
+         clip-path="url(#wideRectClip)"
+         filter="url(#ditherEffect)"
+         opacity="0.95"/>
+         
+  <!-- Optional overlay for extra depth -->
+  <rect width="1200" height="400" fill="url(#fadeGradient)" opacity="0.1" rx="20" ry="20" pointer-events="none"/>
+  
+  <defs>
+    <linearGradient id="fadeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#b8b5ff;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#d4d2ff;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#b8b5ff;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
+</svg>
