@@ -54,22 +54,22 @@ RAKI LAB
 
 ---
 
-### 我最喜欢的10张音乐专辑
+### My Top 10 Favorite Music Albums
 
-<table>
+<table width="100%">
   <tr>
-    <td><a href="YOUR_APPLE_MUSIC_URL_1"><img src="public/cd/17'map.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_2"><img src="public/cd/fujiikaze.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_3"><img src="public/cd/hins.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_4"><img src="public/cd/kellychen.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_5"><img src="public/cd/ladygaga.jpg" width="60px" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/map-of-the-soul-7/1499335371"><img src="public/cd/map.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/help-ever-hurt-never/1512411656"><img src="public/cd/fujiikaze.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/hins-live-in-passion-2014/945474640"><img src="public/cd/hins.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/kelly-chen-10th-anniversary-collection/1443621453"><img src="public/cd/kellychen.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/the-fame-monster-deluxe-edition/1440813475"><img src="public/cd/ladygaga.jpg" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="YOUR_APPLE_MUSIC_URL_6"><img src="public/cd/madonna.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_7"><img src="public/cd/solopiano.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_8"><img src="public/cd/strobo.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_9"><img src="public/cd/thankyou.jpg" width="60px" /></a></td>
-    <td><a href="YOUR_APPLE_MUSIC_URL_10"><img src="public/cd/the 1975.jpg" width="60px" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/madonna/80812921"><img src="public/cd/madonna.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/solo-piano/61460144"><img src="public/cd/solopiano.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/strobo/1511210217"><img src="public/cd/strobo.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/thank-you/1444033285"><img src="public/cd/thankyou.jpg" width="100%" /></a></td>
+    <td width="20%"><a href="https://music.apple.com/us/album/the-1975-deluxe-edition/1440854496"><img src="public/cd/the1975.jpg" width="100%" /></a></td>
   </tr>
 </table>
 
